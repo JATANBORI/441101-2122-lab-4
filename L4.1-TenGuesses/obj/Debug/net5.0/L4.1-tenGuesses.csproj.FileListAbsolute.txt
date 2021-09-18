@@ -1,0 +1,16 @@
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.exe
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.deps.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.runtimeconfig.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.runtimeconfig.dev.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\ref\L4.1-tenGuesses.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\bin\Debug\net5.0\L4.1-tenGuesses.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.csprojAssemblyReference.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.AssemblyInfoInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.AssemblyInfo.cs
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.csproj.CoreCompileInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\ref\L4.1-tenGuesses.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice4\practice-lab-4-ATANBORI\L4.1-tenGuesses\obj\Debug\net5.0\L4.1-tenGuesses.genruntimeconfig.cache

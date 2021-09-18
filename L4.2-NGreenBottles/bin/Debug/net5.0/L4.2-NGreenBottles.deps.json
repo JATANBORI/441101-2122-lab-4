@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L4.2-NGreenBottles/1.0.0": {
+        "runtime": {
+          "L4.2-NGreenBottles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L4.2-NGreenBottles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
