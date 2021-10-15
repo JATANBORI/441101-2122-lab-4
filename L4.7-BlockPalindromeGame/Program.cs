@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace L4._8_BlockPrimePalindromeGame
+namespace L4._7_BlockPrimePalindromeGame
 {
     class Program
     {

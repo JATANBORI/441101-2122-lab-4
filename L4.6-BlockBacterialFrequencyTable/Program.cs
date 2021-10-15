@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace L4._7_BlockBacterialFrequencyTable
+namespace L4._6_BlockBacterialFrequencyTable
 {
     class Program
     {
